@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6609d8e49a580c57798f61f0"
+  },
+  "nombre": "Pikachu",
+  "sexo": "M",
+  "tipo": "Electrico",
+  "nivel": "25"
+},
+{
+  "_id": {
+    "$oid": "6609d9529a580c57798f61f3"
+  },
+  "nombre": "Charizard",
+  "sexo": "M",
+  "tipo": "Fuego",
+  "nivel": "56"
+},
+{
+  "_id": {
+    "$oid": "6609d9799a580c57798f61f5"
+  },
+  "nombre": "Squirtle",
+  "sexo": "F",
+  "tipo": "Agua",
+  "nivel": "14"
+},
+{
+  "_id": {
+    "$oid": "6609db169a580c57798f61f9"
+  },
+  "nombre": "Torchic",
+  "sexo": "M",
+  "tipo": "Fuego",
+  "nivel": "15"
+},
+{
+  "_id": {
+    "$oid": "660cb421ea29848340b23153"
+  },
+  "nombre": "Pablo",
+  "sexo": "m",
+  "tipo": "hielo",
+  "nivel": 45
+}]
